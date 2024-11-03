@@ -4,15 +4,10 @@
 
  O objetivo é desenvolver um sistema de gerenciamento de estoque para uma empresa de comércio eletrônico que atenda os requisitos solicitados, sendo eles:
  
-Cadastro de Produtos: O sistema deve permitir o cadastro de novos produtos, incluindo 
+-Cadastro de Produtos: O sistema deve permitir o cadastro de novos produtos, incluindo informações como nome, categoria, quantidade em estoque, preço e localização no depósito.
 
-informações como nome, categoria, quantidade em estoque, preço e localização no depósito.
+-Atualização de Estoque: O sistema deve permitir a atualização da quantidade de produtos em estoque quando novos itens são recebidos ou quando produtos são vendidos.
 
-Atualização de Estoque: O sistema deve permitir a atualização da quantidade de produtos 
-em estoque quando novos itens são recebidos ou quando produtos são vendidos.
+-Rastreamento de Localização: O sistema deve possibilitar o rastreamento da localização dos produtos dentro dos depósitos para facilitar a logística.
 
-Rastreamento de Localização: O sistema deve possibilitar o rastreamento da localização dos 
-produtos dentro dos depósitos para facilitar a logística.
-
-Relatórios: O sistema deve gerar relatórios sobre o estado do estoque, destacando produtos 
-com estoque baixo, excesso de estoque e movimentação de produtos
+-Relatórios: O sistema deve gerar relatórios sobre o estado do estoque, destacando produtos com estoque baixo, excesso de estoque e movimentação de produtos
